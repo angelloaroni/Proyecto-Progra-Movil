@@ -1,4 +1,5 @@
 # Proyecto-Progra-Movil
-Idea de proyecto: FindUlima \n
+Idea de proyecto: FindUlima
+
 Descripción: El proyecto consiste en una aplicación que muestra los objetos perdidos que han sido encontrados en el campus de la universidad. Un administrador puede tomar fotos de los objetos recibidos y publicarlos en la app, además de editar estas publicaciones y aceptar o rechazar los formularios enviados por los alumnos. Los usuarios pueden ver estos objetos y rellenar un formulario para demostrar que el objeto les pertenece. La aplicación también permite mostrar en un mapa interactivo una ubicación tentativa donde puede estar el objeto (en caso de no estar publicado), o la ubicación del edificio donde se encuentra la oficina de objetos perdidos para ir a recogerlo o verlo presencialmente. Además, cuenta con un chat para que los usuarios puedan comunicarse con los administradores en caso de necesitar alguna especificación más detallada.
 Finalmente, se cuenta con un sistema de inicio de sesión y registro de usuarios.
